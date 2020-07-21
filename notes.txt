@@ -1,1 +1,3 @@
-git demo
+git demo 
+its an awesome day to learn about version control
+new line for git
